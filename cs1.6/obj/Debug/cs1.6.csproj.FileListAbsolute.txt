@@ -1,0 +1,15 @@
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\bin\Debug\cs1.6.exe.config
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\bin\Debug\cs1.6.exe
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\bin\Debug\cs1.6.pdb
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1._6.FireArmsMenu.resources
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1._6.Form1.resources
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1._6.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.exe
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.pdb
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1._6.Form2.resources
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1._6.AwpMenu.resources
+C:\Users\gagni_j1hmy01\Desktop\cs1.6\cs1.6\obj\Debug\cs1.6.csprojAssemblyReference.cache
